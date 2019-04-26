@@ -4,6 +4,7 @@
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="file-uploader" type="PLAIN_TEXT" />
+      <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
