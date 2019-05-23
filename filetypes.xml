@@ -13,6 +13,7 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="js__" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
