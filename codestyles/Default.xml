@@ -22,6 +22,11 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
     <option name="SPACE_BEFORE_COLON" value="false" />
