@@ -10,9 +10,9 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="trackings/create" type="PLAIN_TEXT" />
+      <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern="html" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
