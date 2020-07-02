@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="erb" type="HTML" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern="TiptapEditorColorPicker" type="PLAIN_TEXT" />
       <mapping pattern="file-uploader" type="PLAIN_TEXT" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
@@ -13,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="trackings/create" type="PLAIN_TEXT" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
+      <mapping pattern="TiptapEditorColorPicker" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
