@@ -19,6 +19,7 @@
       <mapping pattern="html" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="js__" type="PLAIN_TEXT" />
+      <mapping ext="native" type="PLAIN_TEXT" />
       <removed_mapping pattern=".erb" approved="true" type="HTML" />
       <mapping ext="mdx" type="Markdown" />
     </extensionMap>
