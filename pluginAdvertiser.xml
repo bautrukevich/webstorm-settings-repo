@@ -1224,6 +1224,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.teststory">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="wallaby.js" />
+              <option name="myPluginName" value="Wallaby" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tfignore">
           <value>
             <plugin>
