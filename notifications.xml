@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Quokka Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Wallaby Notification" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
