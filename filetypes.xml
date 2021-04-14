@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
       <mapping pattern="Font" type="PLAIN_TEXT" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
