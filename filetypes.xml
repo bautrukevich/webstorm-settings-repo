@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
-      <mapping pattern="Font" type="PLAIN_TEXT" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Font" type="PLAIN_TEXT" />
       <mapping pattern="trackings/create" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="html" type="PLAIN_TEXT" />
       <mapping pattern="TiptapEditorColorPicker" type="PLAIN_TEXT" />
@@ -24,7 +25,6 @@
       <mapping ext="native" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".erb" approved="true" type="HTML" />
-      <mapping ext="mdx" type="Markdown" />
     </extensionMap>
   </component>
 </application>
