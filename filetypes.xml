@@ -4,13 +4,13 @@
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern="Font" type="PLAIN_TEXT" />
-      <mapping pattern="trackings/create" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="trackings/create" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="html" type="PLAIN_TEXT" />
       <mapping pattern="TiptapEditorColorPicker" type="PLAIN_TEXT" />
