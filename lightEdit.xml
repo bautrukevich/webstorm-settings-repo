@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/blocks/place/place.css" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="140" y="43" width="1400" height="919" />
     </option>
   </component>
 </application>
