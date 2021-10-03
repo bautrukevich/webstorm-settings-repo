@@ -2,7 +2,8 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/blocks/place/place.css" />
+        <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/src/components/App.js" />
+        <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/src/components/Main.js" />
       </list>
     </option>
     <option name="supportedFilePatterns">
