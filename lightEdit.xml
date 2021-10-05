@@ -4,6 +4,7 @@
       <list>
         <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/src/components/App.js" />
         <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/src/components/Main.js" />
+        <option value="file://$USER_HOME$/Yandex.Praktikum/web_canonicals_ru/src/blocks/popup/popup.css" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -20,7 +21,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="140" y="43" width="1400" height="919" />
+      <frame x="840" y="23" width="840" height="958" />
     </option>
   </component>
 </application>
