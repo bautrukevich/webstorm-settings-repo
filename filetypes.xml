@@ -4,7 +4,6 @@
       <mapping pattern="useFormWithValidation" type="AUTO_DETECTED" />
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
-      <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern="html" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <mapping pattern="file-uploader" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="js__" type="PLAIN_TEXT" />
+      <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="native" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
