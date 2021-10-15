@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="useFormWithValidation" type="AUTO_DETECTED" />
+      <mapping pattern="categorical_features_for_decision_trees" type="AUTO_DETECTED" />
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
