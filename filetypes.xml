@@ -19,6 +19,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Font" type="PLAIN_TEXT" />
       <mapping pattern="file-uploader" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="js__" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
