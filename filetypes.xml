@@ -29,6 +29,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="mdx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".erb" approved="true" type="HTML" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
     </extensionMap>
