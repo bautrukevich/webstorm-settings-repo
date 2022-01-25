@@ -1,5 +1,5 @@
 <templateSet group="CSS">
-  <template name="@breakpoints" value="/* Small (sm) */&#10;@media (min-width: 640px)  { /* ... */ }&#10;&#10;/* Medium (md) */&#10;@media (min-width: 768px)  { /* ... */ }&#10;&#10;/* Large (lg) */&#10;@media (min-width: 1024px) { /* ... */ }&#10;&#10;/* Extra Large (xl) */&#10;@media (min-width: 1280px) { /* ... */ }&#10;" description="CSS Media Breakpoints" toReformat="false" toShortenFQNames="true">
+  <template name="@breakpoints" value="/* Small (sm) */&#10;@media (min-width: 640px) {&#10;}&#10;&#10;/* Medium (md) */&#10;@media (min-width: 768px) {&#10;}&#10;&#10;/* Large (lg) */&#10;@media (min-width: 1024px) {&#10;}&#10;&#10;/* Extra Large (xl) */&#10;@media (min-width: 1280px) {&#10;}&#10;" description="CSS Media Breakpoints" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
