@@ -9,4 +9,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="@component" value="/* Vendor */&#10;import classNames from 'classnames';&#10;&#10;/* Types */&#10;interface Props {&#10;  className?: string;&#10;}&#10;&#10;export const $END$ = () =&gt; {}" description="UI Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
