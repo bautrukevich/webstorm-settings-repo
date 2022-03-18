@@ -1,0 +1,7 @@
+<templateSet group="React">
+  <template name="@component" value="/* Vendor */&#10;import { ReactNode } from &quot;react&quot;;&#10;import classNames from &quot;classnames&quot;;&#10;&#10;/* Components */&#10;&#10;/* Styles */&#10;import styles from &quot;./styles.module.css&quot;;&#10;&#10;/* Types */&#10;interface Props {&#10;  className?: string;&#10;  children: ReactNode;&#10;}&#10;&#10;export const $END$ = ({ className, children }: Props) =&gt; {&#10;  return (&#10;    &lt;div className={classNames(styles.container, className)}&gt;{children}&lt;/div&gt;&#10;  );&#10;};&#10;" description="Component boilerplate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
