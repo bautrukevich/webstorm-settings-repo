@@ -3,4 +3,8 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="span" value="&lt;span&gt;$END$&lt;/span&gt;" description="&lt;span&gt;...&lt;/span&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
