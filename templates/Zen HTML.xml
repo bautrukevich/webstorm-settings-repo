@@ -1,0 +1,6 @@
+<templateSet group="Zen HTML">
+  <template name="div" value="&lt;div&gt;$END$&lt;/div&gt;" description="&lt;div&gt;...&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
