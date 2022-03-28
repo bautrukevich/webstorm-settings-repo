@@ -4,7 +4,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="@presenter" value="import { useLocalStore } from 'mobx-react';&#10;&#10;export default () =&gt; {&#10;  const presenter = useLocalStore(() =&gt; ({&#10;    &#10;  }));&#10;&#10;  return { presenter };&#10;};" description="Presenter for component" toReformat="false" toShortenFQNames="true">
+  <template name="@presenter" value="import { useLocalStore } from 'mobx-react';&#10;&#10;export default () =&gt; {&#10;  const presenter = useLocalStore(() =&gt; ({&#10;    &#10;  }));&#10;&#10;  return presenter;&#10;};" description="Presenter for component" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
