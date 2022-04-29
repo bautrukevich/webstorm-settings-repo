@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="websocket" type="AUTO_DETECTED" />
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="Marker" type="AUTO_DETECTED" />
