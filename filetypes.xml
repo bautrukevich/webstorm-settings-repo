@@ -30,6 +30,8 @@
       <mapping ext="js__" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="native" type="PLAIN_TEXT" />
+      <mapping pattern="pubspec.lock" type="YAML" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="mdx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".erb" approved="true" type="HTML" />
