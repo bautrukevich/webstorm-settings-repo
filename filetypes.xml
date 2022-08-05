@@ -21,7 +21,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="trackings/create" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Font" type="PLAIN_TEXT" />
       <mapping pattern="file-uploader" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
