@@ -12,6 +12,7 @@
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
       <mapping pattern="html" type="PLAIN_TEXT" />
       <mapping pattern="TiptapEditorColorPicker" type="PLAIN_TEXT" />
