@@ -11,6 +11,7 @@
       <mapping pattern="categorical_features_for_decision_trees" type="AUTO_DETECTED" />
       <mapping pattern="public/_redirects" type="AUTO_DETECTED" />
       <mapping ext="erb" type="HTML" />
+      <mapping ext="html" type="HTML" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="DropdownSubmenu" type="PLAIN_TEXT" />
@@ -30,7 +31,6 @@
       <mapping ext="js__" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="native" type="PLAIN_TEXT" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="mdx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".erb" approved="true" type="HTML" />
